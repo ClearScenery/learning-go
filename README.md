@@ -1,2 +1,2 @@
-# learninig-go
-golang learninig repo
+
+golang learnning repo
