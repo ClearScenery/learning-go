@@ -1,2 +1,2 @@
 
-golang learnning repo
+golang learning repo
